@@ -51,7 +51,7 @@
     }
 
 	const slideshow = (p) => {
-		if(upComingMovies.length > 0 && loaded){
+		if(upComingMovies.length > 0){
 			
 			//Går til neste slide
 			if(p !== "previous"){
